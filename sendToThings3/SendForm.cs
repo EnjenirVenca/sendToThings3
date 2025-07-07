@@ -31,7 +31,7 @@ namespace sendToThings3
                 new EventHandler<KeyPressedEventArgs>(Hook_KeyPressed);
             // register the combination as hot key.
             hook.RegisterHotKey(sendToThings3.ModifierKeys.Control | sendToThings3.ModifierKeys.Alt,
-                Keys.OemPeriod);
+                Keys.Oem2);
 
             p_text.Visible = true;
             p_message.Enabled = false;
