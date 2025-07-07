@@ -100,7 +100,7 @@ SMTP Server & Port: `smtp.gmail.com` `587`
 ### Keyboard Shortcuts
 Function | Shortcut
 ------------ | -------------
-**Open** the popup | `ctrl` + `alt` + `.`
+**Open** the popup | `ctrl` + `alt` + `/`
 **Add** details to task | `tab`
 **Save/Send** task | `ctrl` + `enter` or `ctrl` + `s`
 **Close** the popup | `esc`
